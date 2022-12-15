@@ -13,5 +13,7 @@ public class java_exercises {
         String umang = "umang";
         System.out.printf("The integer is %d , the float number is %f , " +
                 "the char is %c and the String is %s",d,f,chr,umang);
+
+        //
     }
 }
