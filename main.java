@@ -10,7 +10,7 @@ public class main {
         int t = 19;
         int q = 10;
 //        with parenthesis
-        int k = v*v - (4*t*q)/(2*q);
+        int k = (v*v - 4*t*q)/(2*q);
         System.out.println(k);
 //        without parenthesis
         int s = v*v - 4*t*q/2*q;
