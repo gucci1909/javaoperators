@@ -6,5 +6,7 @@ public class do_while {
             a++;
 
         }while (a>100);
+
+        System.out.println(a);
     }
 }
