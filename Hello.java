@@ -5,7 +5,8 @@ class Hello
     public static void main(String a[]){
         System.out.println("Hello world!");
         System.out.println("hello 134");
-        Scanner s1 = new Scanner(System.in);
+        Scanner S1 = new Scanner(System.in);
+        // Scanner
         // System.out.println();
         Scanner s2 = new Scanner(System.in);
         float f3 = 1345.86f;
@@ -17,7 +18,7 @@ class Hello
         System.out.println(c);
         System.out.println(f1);
         System.out.println(f3);
-        float income = s1.nextFloat();
+        float income = S1.nextFloat();
         System.out.println(income);
         boolean b = true;
         System.out.println(b);
