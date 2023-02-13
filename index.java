@@ -1,9 +1,11 @@
 public class index{
 
-    public static void main(String a[]){
+    public static void main(String[] args){
 
-        char num = 'a';
-        System.out.println(num);
+        // char num = 'a';
+        float num1 = 5.6f;
+        int a = (int)num1;
+        System.out.println(a);
         
 
     }
